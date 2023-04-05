@@ -1,0 +1,13 @@
+.color_chooser_container{
+    justify-content: center;
+    padding: 50px;
+
+    .color_chooser_square{
+        width: 150px;
+        height: 120px;
+        border: 1px solid black;
+        margin: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}

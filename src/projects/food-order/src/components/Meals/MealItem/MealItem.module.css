@@ -1,0 +1,22 @@
+.name {
+  font-weight: bold;
+}
+
+.description {
+  font-style: italic;
+}
+
+.price {
+  font-weight: bold;
+  color: rgb(175, 157, 55);
+}
+
+@media only screen and (max-width: 550px) {
+  .name {
+    margin: 5px 0px;
+  }
+
+  .price {
+    margin: 0;
+  }
+}
